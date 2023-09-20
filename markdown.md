@@ -41,6 +41,6 @@ This is only a very short rundown of what is possible to do with markdowns, for 
 
 ![You did a good job.](https://media.tenor.com/KeSDB2EZjPAAAAAM/leonardo-di-caprio-wolf-of-wall-street.gif)
 
-![See you soon !](https://media.bunches.co.uk/products/k0622.jpg)
+![See you soon !](https://media.bunches.co.uk/products/k0622.jpg?w=400&h=400)
 
 Refer to [README](README.md).
