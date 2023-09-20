@@ -41,9 +41,12 @@ This is only a very short rundown of what is possible to do with markdowns, for 
 
 <script type="text/javascript">
     <div id="count">
-        Here is a useless button.
-        <input type="button" value="Plus one">
+        Click the button
+        <input type="button" value="Click !" onclick="msg()">
     </div>
+    function msg(){
+        alert("Good job !");
+    }
 </script>
 
 ![You did a good job.](https://media.tenor.com/KeSDB2EZjPAAAAAM/leonardo-di-caprio-wolf-of-wall-street.gif)
