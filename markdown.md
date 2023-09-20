@@ -38,16 +38,17 @@ It's also possible to do many type of lists such as :
 ### And much more !
 
 This is only a very short rundown of what is possible to do with markdowns, for a more exhaustive list please refer to the link in [markdown](#markdowns).
-
-<script type="text/javascript">
-    <div id="count">
-        Click the button
-        <input type="button" value="Click !" onclick="msg()">
-    </div>
+<html>
+    <script type="text/javascript">
+        <div id="count">
+            Click the button !
+            <input type="button" value="Click !" onclick="msg()">
+        </div>
     function msg(){
         alert("Good job !");
     }
-</script>
+    </script>
+</html>
 
 ![You did a good job.](https://media.tenor.com/KeSDB2EZjPAAAAAM/leonardo-di-caprio-wolf-of-wall-street.gif)
 
