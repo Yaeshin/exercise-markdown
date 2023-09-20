@@ -39,8 +39,15 @@ It's also possible to do many type of lists such as :
 
 This is only a very short rundown of what is possible to do with markdowns, for a more exhaustive list please refer to the link in [markdown](#markdowns).
 
+<script type="text/javascript">
+    <div id="count">
+        Here is a useless button.
+        <input type="button" value="Plus one">
+    </div>
+</script>
+
 ![You did a good job.](https://media.tenor.com/KeSDB2EZjPAAAAAM/leonardo-di-caprio-wolf-of-wall-street.gif)
 
-![See you soon !](https://media.bunches.co.uk/products/k0622.jpg?w=400&h=400)
+![See you soon !](images/seeya.png)
 
 Refer to [README](README.md).
