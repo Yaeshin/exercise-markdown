@@ -39,6 +39,7 @@ It's also possible to do many type of lists such as :
 
 This is only a very short rundown of what is possible to do with markdowns, for a more exhaustive list please refer to the link in [markdown](#markdowns).
 
+```
 <script type="text/javascript">
 
     <div id="count">
@@ -50,6 +51,7 @@ This is only a very short rundown of what is possible to do with markdowns, for 
     }
 
 </script>
+```
 
 ![You did a good job.](https://media.tenor.com/KeSDB2EZjPAAAAAM/leonardo-di-caprio-wolf-of-wall-street.gif)
 
